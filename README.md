@@ -1,13 +1,13 @@
-# monster-game-app
+# monster-game
 
 > JAVA로 몬스터 잡기 게임을 구현한 저장소입니다.
 
 ## 프로젝트 인원
 
-- [이서우](https://github.com/seowlee): 몬스터 객체, 구조 및 설계
-- [최영빈](https://github.com/bin778): 플레이어 객체, 발표
-- [이태희](https://github.com/taeheehi): 몬스터 객체
-- [노유성](https://github.com/nes0903): 플레이어 객체
+- [@이서우](https://github.com/seowlee): 몬스터 객체, 구조 및 설계
+- [@최영빈](https://github.com/bin778): 플레이어 객체, 발표
+- [@이태희](https://github.com/taeheehi): 몬스터 객체
+- [@노유성](https://github.com/nes0903): 플레이어 객체
 
 ## 프로젝트 기간
 
